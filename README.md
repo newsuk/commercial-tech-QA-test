@@ -32,9 +32,9 @@ Scenario:
 5. Check if the correlator  is same in  all  gampad/ads  requests
 
 Test will be evaluated based on :
-    * Expected results
-    * Approach
-    * Coding standards
-    * Behavior
+     Expected results,
+     Approach,
+     Coding standards,
+     Behavior.
 
 Candidate can use IDE of choice and need to do screen share  during test 
