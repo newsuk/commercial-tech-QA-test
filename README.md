@@ -43,10 +43,10 @@ Candidate can use IDE of choice and need to do screen share  during test
 Manual Steps
 
      1 visit the url provided
-     2 before proceeding I need to accept the cookies -> mandatory to proceed
-     3 wait for teh page to fully load 
+     2 accept the cookies -> mandatory to proceed
+     3 wait for the page to fully load 
      4 look for any requests with partial match of 'gampad/ads'
-     5 save the payload/ body of teh request 
-     6 then  extract the correlator id  present in teh request 'correlator' 
-     7 confirm that teh correlator is teh same in all available/presnet 
-     for the partial match of  'gampad/ads'
+     5 save the payload/ body of the request 
+     6 then  extract the correlator id  present in the request 'correlator' 
+     7 confirm that the correlator is same in all available request 
+       for the partial match of  'gampad/ads'
