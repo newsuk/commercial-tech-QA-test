@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: commercial-tech-QA-test
+  description: Component for commercial-tech-QA-test
+  annotations:
+    circleci.com/project-slug: github/newsuk/commercial-tech-QA-test
+    backstage.io/source-location: url:https://github.com/newsuk/commercial-tech-QA-test/
+    github.com/team-slug: newsuk/commercial-tech-QA-test
+    backstage.io/productivity-hub-metrics-enabled: 'true'
+  tags:
+    - bu:newsuk
+spec:
+  type: service
+  lifecycle: production
+  owner: nuk
